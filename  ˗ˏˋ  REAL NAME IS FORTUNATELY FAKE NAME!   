@@ -1,0 +1,588 @@
+<!--Layout Start-->
+<div style="width:750px;height:475px;margin:auto;"><!--Background Start-->
+<div style="float:left;width:750px;height:auto;margin:0px 0px 5px 0px;"><!--Windows Background-->
+<div style="float:left;width:750px;height:400px;background:#F5F5F5;border:1px solid #A39386;border-radius:5px;margin:0px 0px 0px 0px;">
+<div style="float:left;width:7px;height:7px;border:1px solid #A39386;border-radius:7px;margin:5px 0px 0px 5px;">&nbsp;</div>
+
+<div style="float:left;width:7px;height:7px;border:1px solid #A39386;border-radius:7px;margin:5px 0px 0px 5px;">&nbsp;</div>
+
+<div style="float:left;width:7px;height:7px;border:1px solid #A39386;border-radius:7px;margin:5px 0px 0px 5px;">&nbsp;</div>
+
+<div style="float:right;font-family:times new roman;font-size:14px;color:#A39386;line-height:14px;text-align:right;margin:3px 5px 0px 0px;">x</div>
+</div>
+<!--Windows Background--><!--Main Content Background-->
+
+<div style="float:left;width:700px;height:auto;background:#EDEAE8;border:1px solid #A39386;margin:-370px 0px 0px 25px;"><!--Character Name-->
+<div style="float:left;width:700px;height:auto;padding:0px 0px 10px 0px;border-bottom:double #A39386;margin:10px 0px 0px 0px;"><!--Additional Text Box Left-->
+<div style="float:left;width:150px;height:80px;border-right:1px solid #D5CDC7;margin:0px 0px 0px 0px;">
+<div style="font-family:arial;font-size:10px;color:#A39386;line-height:15px;text-align:center;letter-spacing:2px;margin:27px 0px 0px 0px;">FORTUNA</div>
+</div>
+<!--Additional Text Box Left-->
+
+<div style="float:left;font-family:times new roman;font-size:30px;color:#413124;line-height:30px;text-align:center;letter-spacing:3px;margin:20px 0px 0px 40px;">CHARACTER NAME
+<div style="font-family:times new roman;font-size:10px;color:#413124;line-height:10px;text-align:center;letter-spacing:3px;margin:0px 0px 0px 0px;">username | nickname | activity</div>
+</div>
+<!--Additional Text Box Right-->
+
+<div style="float:right;width:150px;height:80px;border-left:1px solid #D5CDC7;margin:0px 0px 0px 0px;">
+<div style="font-family:arial;font-size:10px;color:#A39386;line-height:15px;text-align:center;letter-spacing:2px;margin:27px 0px 0px 0px;">CH&Eacute;RIE</div>
+</div>
+<!--Additional Text Box Right--></div>
+<!--Character Name--><!--Section 1-->
+
+<div style="float:left;width:660px;height:350px;padding:20px;border-bottom:double #A39386;margin:0px 0px 0px 0px;"><!--Main Icon-->
+<div style="float:left;width:300px;height:300px;margin:0px 0px 0px 0px;"><img src="https://i.imgur.com/YpgZkRX.png" style="width:300px;height:300px;" /> <!--Quote-->
+<div style="float:right;font-family:times new roman;font-size:13px;color:#413124;line-height:13px;text-align:right;margin:10px 0px 0px 0px;"><i>Quotes from your character.<br />
+Up to two lines only!</i></div>
+<!--Quote--></div>
+<!--Main Icon--><!--Side Rectangle-->
+
+<div style="float:left;width:329px;height:350px;border-left:1px solid #A39386;margin:0px 0px 0px 25px;"><!--Basics-->
+<div style="float:left;width:294px;height:145px;padding:20px;border-bottom:1px solid #A39386;margin:0px 0px 0px 0px;">
+<div style="float:left;font-family:times new roman;font-size:25px;color:#413124;line-height:25px;text-align:left;margin:0px 0px 0px 0px;"><i>who is she</i>?</div>
+
+<div style="float:left;width:295px;height:110px;overflow:hidden;padding:10px;margin:0px 0px 0px -10px;">
+<div style="float:left;width:335px;height:110px;overflow:auto;">
+<div style="float:left;width:295px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>FULL NAME</strong> here</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>NICKNAMES</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　&mdash; here</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>DATE OF BIRTH (AGE)</strong>&nbsp;month day year (age range is from 2015-2020 or 1997-2002 in 2018&#39;s conversion)&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>BIRTHPLACE</strong> here</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>HOMETOWN</strong> here</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>ETHNICITY</strong> here</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>NATIONALITY</strong> here</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>SEXUALITY</strong> here</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>LANGUAGE</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　&mdash; be reasonable, not more than three fluent languages</div>
+</div>
+</div>
+</div>
+</div>
+<!--Basics--><!--Face-->
+
+<div style="float:left;width:294px;height:145px;padding:20px;margin:0px 0px 0px 0px;">
+<div style="float:left;font-family:times new roman;font-size:25px;color:#413124;line-height:25px;text-align:left;margin:0px 0px 0px 0px;"><i>is she pretty?</i></div>
+
+<div style="float:left;width:295px;height:90px;overflow:hidden;padding:10px;margin:0px 0px 0px -10px;">
+<div style="float:left;width:335px;height:90px;overflow:auto;">
+<div style="float:left;width:295px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>FACECLAIM</strong> here</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>BACK-UP</strong> one fc backup is enough</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>WEIGHT</strong>&nbsp;here</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>HEIGHT</strong> here</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>APPEARANCE</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　how else does your character differ from your faceclaim? does your character have any piercings, tattoos, or birthmark?</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>FASHION</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　pictures, descriptions, you can format this in any way as long as i get the idea of how your character dresses</div>
+</div>
+</div>
+</div>
+</div>
+<!--Face--></div>
+<!--Side Rectangle--></div>
+<!--Section 1--><!--Section 2-->
+
+<div style="float:left;width:660px;height:200px;padding:20px;border-bottom:double #A39386;margin:0px 0px 0px 0px;"><!--Personality-->
+<div style="float:left;width:304px;height:200px;padding:0px 20px 0px 0px;border-right:1px solid #A39386;margin:0px 0px 0px 0px;">
+<div style="float:left;font-family:times new roman;font-size:25px;color:#413124;line-height:25px;text-align:left;margin:0px 0px 0px 0px;"><i>what is she like?</i></div>
+
+<div style="float:left;width:290px;height:165px;overflow:hidden;padding:10px;margin:0px 0px 0px -10px;">
+<div style="float:left;width:330px;height:165px;overflow:auto;">
+<div style="float:left;width:290px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>PERSONALITY TRAITS</strong> minimum of&nbsp;3 positive and 3 negative traits. your character doesn&#39;t need to have an equal number of positive and negative traits.</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>ELABORATION</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　format this in any way you like. just make sure that i can get a good grasp of your character&#39; personality.</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>BACKGROUND</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　your character&#39;s real backstory. i don&#39;t mind an angsty story, or even a happy-all-the-time one. life is funny like that.</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>TRIVIA</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　any fun facts about your character will go here.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--Personality--><!--Background-->
+
+<div style="float:left;width:300px;height:200px;padding:0px 0px 0px 20px;margin:0px 0px 0px 15px;">
+<div style="float:left;font-family:times new roman;font-size:25px;color:#413124;line-height:25px;text-align:left;margin:0px 0px 0px 0px;"><i>is she what she seemed to be?</i></div>
+
+<div style="float:left;width:300px;height:165px;overflow:hidden;padding:10px;margin:0px 0px 0px -10px;">
+<div style="float:left;width:340px;height:165px;overflow:auto;">
+<div style="float:left;width:300px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>POSITION</strong>: please stick to the plotline!</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>TALENT TWIN</strong>: remember, be reasonable. although the girls are indeed talented, but please keep in mind with the position.</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>STAGE NAME</strong>: why has your character chosen this stage name?</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>TRAINEE YEARS</strong>: keep in mind that bm entertainment only accept trainees on june&nbsp;&amp; december every year.</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>TRAINEE LIFE</strong>: how has your character&#39;s experience as a trainee been? you can also include other pre-debut activities under this section.&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>ARTICLES</strong>: are there any scandals or news articles that you want your character to end up in before debuting with cherie?</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>ALIAS</strong>: what&#39;s her fake full name she uses in fortuna?&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>STAGE NAME</strong>: did she use a stage name in fortuna? what is the reason?</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>FAKE BACKSTORY</strong>: what is the backstory that she uses as a member of fortuna?</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>LIFE IN THE PAST</strong>: how she deals with being an idol in the past? basically her idol life as a fortuna&#39;s member</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>ARTICLES</strong>: are there any scandals or news articles that you want your character to end up in under fortuna?&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+<!--Background--></div>
+<!--Section 2--><!--Section 3-->
+
+<div style="float:left;width:660px;height:200px;padding:20px;border-bottom:double #A39386;margin:0px 0px 0px 0px;"><!--Trivia-->
+<div style="float:left;width:304px;height:200px;padding:0px 20px 0px 0px;border-right:1px solid #A39386;margin:0px 0px 0px 0px;">
+<div style="float:left;font-family:times new roman;font-size:25px;color:#413124;line-height:25px;text-align:left;margin:0px 0px 0px 0px;"><i>who&#39;s around her past?</i></div>
+
+<div style="float:left;width:290px;height:165px;overflow:hidden;padding:10px;margin:0px 0px 0px -10px;">
+<div style="float:left;width:330px;height:165px;overflow:auto;">
+<div style="float:left;width:290px;"><!--RS One-->
+<div style="float:left;width:278px;height:75px;padding:10px;border:1px solid #A39386;margin:0px 0px 0px 0px;"><!--Icon-->
+<div style="float:left;width:75px;height:75px;margin:0px 0px 0px 0px;"><img src="https://i.imgur.com/A7v0hMG.png" style="width:75px;height:75px;border-radius:5px;" title="relationship here" /></div>
+<!--Icon--><!--Character Name-->
+
+<div style="float:left;font-family:times new roman;font-size:20px;color:#413124;line-height:20px;text-align:left;margin:0px 0px 0px 10px;">CHARACTER NAME</div>
+<!--Character Name--><!--Elaboration-->
+
+<div style="float:left;width:193px;height:49px;overflow:hidden;margin:5px 0px 0px 10px;">
+<div style="float:left;width:233px;height:49px;overflow:auto;">
+<div style="float:left;width:193px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">aHover over the icon for the relationship! 払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。</div>
+</div>
+</div>
+</div>
+<!--Elaboration--></div>
+<!--RS One--><!--RS Two-->
+
+<div style="float:left;width:278px;height:75px;padding:10px;border:1px solid #A39386;margin:5px 0px 0px 0px;"><!--Icon-->
+<div style="float:left;width:75px;height:75px;margin:0px 0px 0px 0px;"><img src="https://i.imgur.com/A7v0hMG.png" style="width:75px;height:75px;border-radius:5px;" title="relationship here" /></div>
+<!--Icon--><!--Character Name-->
+
+<div style="float:left;font-family:times new roman;font-size:20px;color:#413124;line-height:20px;text-align:left;margin:0px 0px 0px 10px;">CHARACTER NAME</div>
+<!--Character Name--><!--Elaboration-->
+
+<div style="float:left;width:193px;height:49px;overflow:hidden;margin:5px 0px 0px 10px;">
+<div style="float:left;width:233px;height:49px;overflow:auto;">
+<div style="float:left;width:193px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">Hover over the icon for the relationship! 払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。</div>
+</div>
+</div>
+</div>
+<!--Elaboration--></div>
+<!--RS Two--><!--RS Three-->
+
+<div style="float:left;width:278px;height:75px;padding:10px;border:1px solid #A39386;margin:5px 0px 0px 0px;"><!--Icon-->
+<div style="float:left;width:75px;height:75px;margin:0px 0px 0px 0px;"><img src="https://i.imgur.com/A7v0hMG.png" style="width:75px;height:75px;border-radius:5px;" title="relationship here" /></div>
+<!--Icon--><!--Character Name-->
+
+<div style="float:left;font-family:times new roman;font-size:20px;color:#413124;line-height:20px;text-align:left;margin:0px 0px 0px 10px;">CHARACTER NAME</div>
+<!--Character Name--><!--Elaboration-->
+
+<div style="float:left;width:193px;height:49px;overflow:hidden;margin:5px 0px 0px 10px;">
+<div style="float:left;width:233px;height:49px;overflow:auto;">
+<div style="float:left;width:193px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">Hover over the icon for the relationship! 払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。</div>
+</div>
+</div>
+</div>
+<!--Elaboration--></div>
+<!--RS Three--><!--RS Four-->
+
+<div style="float:left;width:278px;height:75px;padding:10px;border:1px solid #A39386;margin:5px 0px 0px 0px;"><!--Icon-->
+<div style="float:left;width:75px;height:75px;margin:0px 0px 0px 0px;"><img src="https://i.imgur.com/A7v0hMG.png" style="width:75px;height:75px;border-radius:5px;" title="relationship here" /></div>
+<!--Icon--><!--Character Name-->
+
+<div style="float:left;font-family:times new roman;font-size:20px;color:#413124;line-height:20px;text-align:left;margin:0px 0px 0px 10px;">CHARACTER NAME</div>
+<!--Character Name--><!--Elaboration-->
+
+<div style="float:left;width:193px;height:49px;overflow:hidden;margin:5px 0px 0px 10px;">
+<div style="float:left;width:233px;height:49px;overflow:auto;">
+<div style="float:left;width:193px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">Hover over the icon for the relationship! 払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。</div>
+</div>
+</div>
+</div>
+<!--Elaboration--></div>
+<!--RS Four--><!--RS Five-->
+
+<div style="float:left;width:278px;height:75px;padding:10px;border:1px solid #A39386;margin:5px 0px 0px 0px;"><!--Icon-->
+<div style="float:left;width:75px;height:75px;margin:0px 0px 0px 0px;"><img src="https://i.imgur.com/A7v0hMG.png" style="width:75px;height:75px;border-radius:5px;" title="relationship here" /></div>
+<!--Icon--><!--Character Name-->
+
+<div style="float:left;font-family:times new roman;font-size:20px;color:#413124;line-height:20px;text-align:left;margin:0px 0px 0px 10px;">CHARACTER NAME</div>
+<!--Character Name--><!--Elaboration-->
+
+<div style="float:left;width:193px;height:49px;overflow:hidden;margin:5px 0px 0px 10px;">
+<div style="float:left;width:233px;height:49px;overflow:auto;">
+<div style="float:left;width:193px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">Hover over the icon for the relationship! 払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。</div>
+</div>
+</div>
+</div>
+<!--Elaboration--></div>
+<!--RS Five--><!--RS Six-->
+
+<div style="float:left;width:278px;height:75px;padding:10px;border:1px solid #A39386;margin:5px 0px 0px 0px;"><!--Icon-->
+<div style="float:left;width:75px;height:75px;margin:0px 0px 0px 0px;"><img src="https://i.imgur.com/A7v0hMG.png" style="width:75px;height:75px;border-radius:5px;" title="relationship here" /></div>
+<!--Icon--><!--Character Name-->
+
+<div style="float:left;font-family:times new roman;font-size:20px;color:#413124;line-height:20px;text-align:left;margin:0px 0px 0px 10px;">CHARACTER NAME</div>
+<!--Character Name--><!--Elaboration-->
+
+<div style="float:left;width:193px;height:49px;overflow:hidden;margin:5px 0px 0px 10px;">
+<div style="float:left;width:233px;height:49px;overflow:auto;">
+<div style="float:left;width:193px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">Hover over the icon for the relationship! 払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。</div>
+</div>
+</div>
+</div>
+<!--Elaboration--></div>
+<!--RS Six--></div>
+</div>
+</div>
+</div>
+<!--Trivia--><!--Relationships-->
+
+<div style="float:left;width:300px;height:200px;padding:0px 0px 0px 20px;margin:0px 0px 0px 15px;">
+<div style="float:left;width:300px;height:200px;overflow:hidden;padding:0px 0px 0px 10px;margin:0px 0px 0px -10px;">
+<div style="float:left;width:360px;height:200px;overflow:auto;">
+<div style="float:left;width:320px;">
+<div style="float:left;width:304px;height:200px;padding:0px 20px 0px 0px;border-right:1px solid #A39386;margin:0px 0px 0px 0px;">
+<div style="float:left;font-family:times new roman;font-size:25px;color:#413124;line-height:25px;text-align:left;margin:0px 0px 0px 0px;"><i>who&#39;s around her future?</i></div>
+
+<div style="float:left;width:290px;height:165px;overflow:hidden;padding:10px;margin:0px 0px 0px -10px;">
+<div style="float:left;width:330px;height:165px;overflow:auto;">
+<div style="float:left;width:290px;">
+<div style="float:left;width:278px;height:75px;padding:10px;border:1px solid #A39386;margin:0px 0px 0px 0px;"><!--Icon-->
+<div style="float:left;width:75px;height:75px;margin:0px 0px 0px 0px;"><img src="https://i.imgur.com/A7v0hMG.png" style="width:75px;height:75px;border-radius:5px;" title="relationship here" /></div>
+<!--Icon--><!--Character Name-->
+
+<div style="float:left;font-family:times new roman;font-size:20px;color:#413124;line-height:20px;text-align:left;margin:0px 0px 0px 10px;">CHARACTER NAME</div>
+<!--Character Name--><!--Elaboration-->
+
+<div style="float:left;width:193px;height:49px;overflow:hidden;margin:5px 0px 0px 10px;">
+<div style="float:left;width:233px;height:49px;overflow:auto;">
+<div style="float:left;width:193px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">aHover over the icon for the relationship! 払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。</div>
+</div>
+</div>
+</div>
+<!--Elaboration--></div>
+<!--RS One--><!--RS Two-->
+
+<div style="float:left;width:278px;height:75px;padding:10px;border:1px solid #A39386;margin:5px 0px 0px 0px;"><!--Icon-->
+<div style="float:left;width:75px;height:75px;margin:0px 0px 0px 0px;"><img src="https://i.imgur.com/A7v0hMG.png" style="width:75px;height:75px;border-radius:5px;" title="relationship here" /></div>
+<!--Icon--><!--Character Name-->
+
+<div style="float:left;font-family:times new roman;font-size:20px;color:#413124;line-height:20px;text-align:left;margin:0px 0px 0px 10px;">CHARACTER NAME</div>
+<!--Character Name--><!--Elaboration-->
+
+<div style="float:left;width:193px;height:49px;overflow:hidden;margin:5px 0px 0px 10px;">
+<div style="float:left;width:233px;height:49px;overflow:auto;">
+<div style="float:left;width:193px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">Hover over the icon for the relationship! 払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。</div>
+</div>
+</div>
+</div>
+<!--Elaboration--></div>
+<!--RS Two--><!--RS Three-->
+
+<div style="float:left;width:278px;height:75px;padding:10px;border:1px solid #A39386;margin:5px 0px 0px 0px;"><!--Icon-->
+<div style="float:left;width:75px;height:75px;margin:0px 0px 0px 0px;"><img src="https://i.imgur.com/A7v0hMG.png" style="width:75px;height:75px;border-radius:5px;" title="relationship here" /></div>
+<!--Icon--><!--Character Name-->
+
+<div style="float:left;font-family:times new roman;font-size:20px;color:#413124;line-height:20px;text-align:left;margin:0px 0px 0px 10px;">CHARACTER NAME</div>
+<!--Character Name--><!--Elaboration-->
+
+<div style="float:left;width:193px;height:49px;overflow:hidden;margin:5px 0px 0px 10px;">
+<div style="float:left;width:233px;height:49px;overflow:auto;">
+<div style="float:left;width:193px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">Hover over the icon for the relationship! 払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。</div>
+</div>
+</div>
+</div>
+<!--Elaboration--></div>
+<!--RS Three--><!--RS Four-->
+
+<div style="float:left;width:278px;height:75px;padding:10px;border:1px solid #A39386;margin:5px 0px 0px 0px;"><!--Icon-->
+<div style="float:left;width:75px;height:75px;margin:0px 0px 0px 0px;"><img src="https://i.imgur.com/A7v0hMG.png" style="width:75px;height:75px;border-radius:5px;" title="relationship here" /></div>
+<!--Icon--><!--Character Name-->
+
+<div style="float:left;font-family:times new roman;font-size:20px;color:#413124;line-height:20px;text-align:left;margin:0px 0px 0px 10px;">CHARACTER NAME</div>
+<!--Character Name--><!--Elaboration-->
+
+<div style="float:left;width:193px;height:49px;overflow:hidden;margin:5px 0px 0px 10px;">
+<div style="float:left;width:233px;height:49px;overflow:auto;">
+<div style="float:left;width:193px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">Hover over the icon for the relationship! 払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。</div>
+</div>
+</div>
+</div>
+<!--Elaboration--></div>
+<!--RS Four--><!--RS Five-->
+
+<div style="float:left;width:278px;height:75px;padding:10px;border:1px solid #A39386;margin:5px 0px 0px 0px;"><!--Icon-->
+<div style="float:left;width:75px;height:75px;margin:0px 0px 0px 0px;"><img src="https://i.imgur.com/A7v0hMG.png" style="width:75px;height:75px;border-radius:5px;" title="relationship here" /></div>
+<!--Icon--><!--Character Name-->
+
+<div style="float:left;font-family:times new roman;font-size:20px;color:#413124;line-height:20px;text-align:left;margin:0px 0px 0px 10px;">CHARACTER NAME</div>
+<!--Character Name--><!--Elaboration-->
+
+<div style="float:left;width:193px;height:49px;overflow:hidden;margin:5px 0px 0px 10px;">
+<div style="float:left;width:233px;height:49px;overflow:auto;">
+<div style="float:left;width:193px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">Hover over the icon for the relationship! 払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。</div>
+</div>
+</div>
+</div>
+<!--Elaboration--></div>
+<!--RS Five--><!--RS Six-->
+
+<div style="float:left;width:278px;height:75px;padding:10px;border:1px solid #A39386;margin:5px 0px 0px 0px;"><!--Icon-->
+<div style="float:left;width:75px;height:75px;margin:0px 0px 0px 0px;"><img src="https://i.imgur.com/A7v0hMG.png" style="width:75px;height:75px;border-radius:5px;" title="relationship here" /></div>
+<!--Icon--><!--Character Name-->
+
+<div style="float:left;font-family:times new roman;font-size:20px;color:#413124;line-height:20px;text-align:left;margin:0px 0px 0px 10px;">CHARACTER NAME</div>
+<!--Character Name--><!--Elaboration-->
+
+<div style="float:left;width:193px;height:49px;overflow:hidden;margin:5px 0px 0px 10px;">
+<div style="float:left;width:233px;height:49px;overflow:auto;">
+<div style="float:left;width:193px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">Hover over the icon for the relationship! 払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。払雪ムミル無情ぶがまあ美渋ヲ出球材エヲイ必危ルコヨ路容げだが紅2落ぽ応地ゆスぞて日世せ内的ヨハ布会ヲソコテ愚別碁よスほむ。41追景勝あぜお差隊をちつみ見属ニルオ前竹服めきも銀仕ム新山ごむざち号性町ぞ属掲平義枚そちゅか。和しあに道倍フ止6寄フり管際食アヘ都25票っぐ校箱メト得気機オエ疑誰ロ聞設ねほクぶ慣一律泊たぱす。</div>
+</div>
+</div>
+</div>
+<!--Elaboration--></div>
+<!--RS Six--></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--Relationshipso--></div>
+<!--Section 3--><!--Section 4-->
+
+<div style="float:left;width:660px;height:150px;padding:20px;margin:0px 0px 0px 0px;"><!--Last Words-->
+<div style="float:left;width:360px;height:150px;margin:0px 0px 0px 150px;">
+<div style="font-family:times new roman;font-size:25px;color:#413124;line-height:25px;text-align:center;margin:0px 0px 0px 0px;"><i>can i ask you some questions</i>?</div>
+
+<div style="float:left;width:360px;height:115px;overflow:hidden;margin:10px 0px 0px 0px;">
+<div style="float:left;width:400px;height:115px;overflow:auto;">
+<div style="float:left;width:360px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>❝ HOW DO THEY FEEL ABOUT THE CIRCUMSTANCES? ❞</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　&mdash; please answer the questions with third point of view, basically how you see your character would act or think regarding the respective questions.</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>❝ HOW DO THEY FEEL ABOUT BECOMING A MEMBER OF FORTUNA? ❞</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　&mdash; please answer the questions with third point of view, basically how you see your character would act or think regarding the respective questions.</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>❝ HOW DO THEY FEEL ABOUT THE PAST? ❞</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　&mdash; please answer the questions with third point of view, basically how you see your character would act or think regarding the respective questions.</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>❝ HOW DO THEY FEEL ABOUT BECOMING A MEMBER OF FORTUNA? ❞ </strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　&mdash; please answer the questions with third point of view, basically how you see your character would act or think regarding the respective questions.</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>❝ IF THEY HAD A CHOICE, WOULD THEY GO BACK OR STAY? ❞ </strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　please answer the questions with third point of view, basically how you see your character would act or think regarding the respective questions.</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="float:left;width:700px;border-bottom:double #A39386;margin:0px 0px 0px 0px;"><!--Side Rectangle--><!--Last Words--></div>
+<!--Section 4--><!--Section 5-->
+
+<div style="float:left;width:660px;height:350px;padding:20px;border-bottom:double #A39386;margin:0px 0px 0px 0px;"><!--Side Rectangle-->
+<div style="float:left;width:325px;height:350px;border-right:1px solid #A39386;margin:0px 0px 0px 0px;"><!--LI Basics-->
+<div style="float:left;width:285px;height:145px;padding:20px;border-bottom:1px solid #A39386;margin:0px 0px 0px 0px;">
+<div style="float:left;font-family:times new roman;font-size:25px;color:#413124;line-height:25px;text-align:left;margin:0px 0px 0px 0px;"><i>who&#39;s her lover</i>?</div>
+
+<div style="float:left;width:291px;height:110px;overflow:hidden;padding:10px;margin:0px 0px 0px -10px;">
+<div style="float:left;width:331px;height:110px;overflow:auto;">
+<div style="float:left;width:291px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>FULL NAME</strong> here</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>NICKNAMES</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　&mdash; here</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>DATE OF BIRTH (AGE)</strong>&nbsp;here (here)</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>SEXUALITY</strong> here</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>OCCUPATION</strong> if your character is an idol, state the group and position.</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>FACECLAIM</strong> if your character is an oc, state their fc</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>BACK-UP</strong> include one or two backups</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>PERSONALITY</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　do explain their personality well! as i am not that much aware of a lot of groups, this would help me get clarity about who they are.</div>
+</div>
+</div>
+</div>
+</div>
+<!--LI Basics--><!--Love Story-->
+
+<div style="float:left;width:291px;height:145px;padding:20px;margin:0px 0px 0px 0px;">
+<div style="float:left;font-family:times new roman;font-size:25px;color:#413124;line-height:25px;text-align:left;margin:0px 0px 0px 0px;"><i>how does it go?</i></div>
+
+<div style="float:left;width:291px;height:90px;overflow:hidden;padding:10px;margin:0px 0px 0px -10px;">
+<div style="float:left;width:331px;height:90px;overflow:auto;">
+<div style="float:left;width:291px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>LOVE STORY</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　from how they met up until where you want to stop writing. also keep in mind if they&#39;re love interest is from the past, you cannot make them lovers as soon as she went back to the past.</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>INTERACTIONS</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　how do they interact with each other?</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>ENDING</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　do you have a preferred ending/ vision for the lovers?</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>STATUS</strong> what is the relationship status between the two of them? are the fwbs, best friends, childhood friends, exes?</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>TRIVIA</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　&mdash; here</div>
+</div>
+</div>
+</div>
+</div>
+<!--Love Story--></div>
+<!--Side Rectangle--><!--LI Icon-->
+
+<div style="float:left;width:300px;height:300px;margin:0px 0px 0px 29px;"><img src="https://i.imgur.com/YpgZkRX.png" style="width:300px;height:300px;" /> <!--Quote-->
+<div style="float:left;font-family:times new roman;font-size:13px;color:#413124;line-height:13px;text-align:left;margin:10px 0px 0px 0px;"><i>Quotes about their relationship.<br />
+Up to two lines only!</i></div>
+<!--Quote--></div>
+<!--LI Icon--></div>
+<!--Section 5--><!--Section 6-->
+
+<div style="float:left;width:660px;height:150px;padding:20px;margin:0px 0px 0px 0px;"><!--Last Words-->
+<div style="float:left;width:360px;height:150px;margin:0px 0px 0px 150px;">
+<div style="font-family:times new roman;font-size:25px;color:#413124;line-height:25px;text-align:center;margin:0px 0px 0px 0px;"><i>is this the end</i>?</div>
+
+<div style="float:left;width:360px;height:115px;overflow:hidden;margin:10px 0px 0px 0px;">
+<div style="float:left;width:400px;height:115px;overflow:auto;">
+<div style="float:left;width:360px;">
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>COMMENTS</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　&mdash; do you have anything to say to me?</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>SCENE SUGGESTIONS</strong></div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　&mdash; uggestions are very much appreciated! would really help me figure out which way i would take the story.</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　&mdash; here!</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">　&mdash; here!</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;">&nbsp;</div>
+
+<div style="font-family:'times new roman';font-size:11px;color:#413124;line-height:11px;text-align:justify;"><strong>PASSWORD</strong> here</div>
+</div>
+</div>
+</div>
+</div>
+<!--Last Words--></div>
+<!--Section 6--></div>
+<!--Main Content Background--></div>
+<!--Background End-->
+
+<div style="font-family:'trebuchet ms';font-size:12px;color:#000;text-align:center;letter-spacing:3px;margin:0px 0px 0px 0px;"><a href="https://www.asianfanfics.com/story/view/1465009/" style="color:#000;">EUPHORIA</a></div>
+<!--Layout End--></div>
